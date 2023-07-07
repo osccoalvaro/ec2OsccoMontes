@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EC2_OsccoMontesAlvaro</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="boton">Ingresar</string>
+    <string name="camara">Activar camara</string>
+    <string name="version">Versión 1.0.0</string>
+    <string name="API_KEY">AIzaSyAHvr2uhtwsz_VpRXVa-hWfwhyQGypppm4</string>
+    <string name="informacion">Información</string>
+    <string name="descripcion">EC2 \nDesarrollo de Aplicaciones Móviles 2 \nAlvaro Manuel Oscco Montes \n6to Ciclo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
